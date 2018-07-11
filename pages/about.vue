@@ -6,7 +6,7 @@
         mystaticsite
       </h1>
       <h2 class="subtitle">
-        Nuxt.js project
+       About this Nuxt.js project
       </h2>
     </div>
   </section>
